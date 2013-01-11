@@ -57,7 +57,7 @@ module AssetpipelineTryout
     config.assets.enabled = true
     config.assets.initialize_on_precompile = false
     config.assets.compile = false
-    config.assets.precompile += ['controller_specific/foods.js', 'controller_specific/recipes.js']
+    config.assets.precompile += ['foods.js', 'recipes.js']
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
