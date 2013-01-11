@@ -9,3 +9,7 @@ application.js: application-32ed6ebaba49211fc69e08f40c7b97c4.js
 application/index.js: application-32ed6ebaba49211fc69e08f40c7b97c4.js
 application.css: application-9a3c95e896b198362a0438801158beaa.css
 application/index.css: application-9a3c95e896b198362a0438801158beaa.css
+foods.css: foods-1b13569e9620782f423d4cd3ce931750.css
+foods/index.css: foods-1b13569e9620782f423d4cd3ce931750.css
+recipes.css: recipes-1b13569e9620782f423d4cd3ce931750.css
+recipes/index.css: recipes-1b13569e9620782f423d4cd3ce931750.css
