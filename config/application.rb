@@ -55,6 +55,7 @@ module AssetpipelineTryout
 
     # Enable the asset pipeline
     config.assets.enabled = true
+    config.assets.compile = true
     config.assets.precompile += ['foods.js', 'recipes.js']
 
     # Version of your assets, change this if you want to expire all your assets
