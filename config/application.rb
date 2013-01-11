@@ -55,6 +55,7 @@ module AssetpipelineTryout
 
     # Enable the asset pipeline
     config.assets.enabled = true
+    config.assets.initialize_on_precompile = false
     config.assets.compile = true
     config.assets.precompile += ['foods.js', 'recipes.js']
 
